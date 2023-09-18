@@ -11,7 +11,6 @@ pip install requests
 pip install discord
 pip install asyncio
 pip install itertools
-
 ```
 
 Then
